@@ -1,0 +1,15 @@
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.AssemblyInfoInputs.cache
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.AssemblyInfo.cs
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.csproj.CoreCompileInputs.cache
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.sourcelink.json
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\bin\Debug\net8.0\ShoppingLab.exe
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\bin\Debug\net8.0\ShoppingLab.deps.json
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\bin\Debug\net8.0\ShoppingLab.runtimeconfig.json
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\bin\Debug\net8.0\ShoppingLab.dll
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\bin\Debug\net8.0\ShoppingLab.pdb
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.dll
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\refint\ShoppingLab.dll
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.pdb
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ShoppingLab.genruntimeconfig.cache
+C:\Users\jacky\projects\repos\ShoppingLab\ShoppingLab\obj\Debug\net8.0\ref\ShoppingLab.dll

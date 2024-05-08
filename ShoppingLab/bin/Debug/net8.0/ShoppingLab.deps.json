@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShoppingLab/1.0.0": {
+        "runtime": {
+          "ShoppingLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
